@@ -1,4 +1,7 @@
 # Railing - A project helper for Monorail.js
+
+<a href="https://github.com/runexec/Monorail.js">Get Monorail.js</a>
+
 			./railing.sh Project_Name
 			npm http GET https://registry.npmjs.org/Monorail.js
 			npm http 304 https://registry.npmjs.org/Monorail.js
